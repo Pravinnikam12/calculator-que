@@ -31,14 +31,14 @@ public class Calculator {
   }
   
   public void dispaly( int percentage){
+   System.out.println("percentage is :");
    System.out.println(percentage);
   }
   
    public int percentage(int num1,int num 2){
 	   
-	   int percentage
-	   
-	   
+	   int percentage;
+	   	   
 	   percentage = ((num1+num2)/2)*100;
 	    return percentage;
 }
